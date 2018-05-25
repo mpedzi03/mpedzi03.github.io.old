@@ -1,13 +1,13 @@
 body {
     margin: 60px auto;
     width: 70%;
-}
-div#first{
 	background-image: url('/images/SWbackground.jpg');
+}
+/*
 	opacity: 0.6;
 	width:300px;
 	height:300px;
-}
+*/
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
