@@ -67,8 +67,8 @@ a:active{
 	margin:20px 0;
 }
 div.pictureOfMe{
-	width:100px;
-	height:100px;
+	width:100%;
+	height:100%;
 	background-image:url('/images/Me.jpg');
 	padding:20;
 	
