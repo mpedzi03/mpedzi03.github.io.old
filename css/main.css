@@ -62,16 +62,17 @@ a:active{
 }
 
 .box-2{
-	/*
 	border:2.5px #ce5548 solid #ccc;
 	padding:20px;
 	margin:20px 0;
-	*/
 }
-img{
-	border-radius:8px;
+div.pictureOfMe{
+	width:100px;
+	height:100px;
+	background-image:url('/images/Me.jpg');
+	padding:20;
+	
 }
-
 .categories{
 	border:1px #ccc solid;
 	padding:10px;
