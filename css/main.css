@@ -1,14 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+	background-image: url('/images/SWbackground.jpg');
 }
 
-.bground{
-	background-image: url('/images/SWbackground.jpg');
-	opacity: 0.6;
-	width:300px;
-	height:300px;
-}
 /*
 	opacity: 0.6;
 	width:300px;
