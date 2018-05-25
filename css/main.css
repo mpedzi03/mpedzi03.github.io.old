@@ -29,13 +29,13 @@ a:active{
 }
 
 .box-1{
-	background-color:#333333;
+	background-color:#869ae8;
 	color:#fff;
 	
-	border-right:5px red solid;
-	border-left:5px red solid;
-	border-top:5px red solid;
-	border-bottom:5px red solid;
+	border-right:5px #ce5548 solid;
+	border-left:5px #ce5548 solid;
+	border-top:5px #ce5548 solid;
+	border-bottom:5px #ce5548 solid;
 	
 	padding-top:20px;
 	padding-bottom:20px;
@@ -77,6 +77,6 @@ a:active{
 .categories li{
 	padding-bottom:6px;
 	border-bottom:dotted 1px #333;
-	list-style-image: url('/images/checkmark.png');
+	/*list-style-image: url('/images/checkmark.png');*/
 	
 }
